@@ -1,4 +1,4 @@
-# Exercicio de Fixação Heranca
+# Exercicio de Fixação Herança
 Material Didático. Resolução de Exercício proposto sobre Herança e Polimorfismo.
 
 Fazer um programa para ler os dados de N produtos (N fornecido pelo usuário). Ao final, mostrar a etiqueta de preço de cada produto na mesma ordem em que foram digitados. <br>
